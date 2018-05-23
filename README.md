@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+AshwoodViewTool::Renderer.copyright 'Rosalynn Ashwood', 'All rights reserved'
+```
 
 ## Development
 
